@@ -43,11 +43,11 @@ class LoginPage(SeleniumDriver):
     def login(self, email = "", password = ""):
         self.click_signIn()
         time.sleep(1)
+        self.driver.execute_script("window.scrollBy(0, 300);")
         self.clear_fields()
         self.enter_email(email)
         time.sleep(1)
         self.enter_password(password)
-        time.sleep(1)
         self.click_button()
 
 

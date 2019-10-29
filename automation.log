@@ -1,0 +1,57 @@
+10/29/2019 11:49:35 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:38 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:38 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:38 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:39 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:39 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:40 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:40 AM - LoginPage - INFO: Element is presented
+10/29/2019 11:49:40 AM - TestStatus - INFO: ## Verification successful: Login was unsuccessful
+10/29/2019 11:49:40 AM - TestStatus - INFO: Test invalid password: Test is successful
+10/29/2019 11:49:40 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:42 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:42 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:42 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:43 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:43 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:44 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:44 AM - LoginPage - INFO: Element is presented
+10/29/2019 11:49:44 AM - TestStatus - INFO: ## Verification successful: Login was unsuccessful
+10/29/2019 11:49:44 AM - TestStatus - INFO: Test invalid email: Test is successful
+10/29/2019 11:49:44 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:47 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:47 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:47 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:48 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:48 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:49 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:49 AM - LoginPage - INFO: Element is presented
+10/29/2019 11:49:49 AM - TestStatus - INFO: ## Verification successful: Login was unsuccessful
+10/29/2019 11:49:49 AM - TestStatus - INFO: Test invalid email and password: Test is successful
+10/29/2019 11:49:49 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:52 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:52 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:52 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:53 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:53 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:53 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:53 AM - LoginPage - INFO: Element is presented
+10/29/2019 11:49:53 AM - TestStatus - INFO: ## Verification successful: Login was unsuccessful
+10/29/2019 11:49:53 AM - TestStatus - INFO: Test invalid with blank fields: Test is successful
+10/29/2019 11:49:54 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:56 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:56 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:56 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:57 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:57 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:59 AM - LoginPage - INFO: Element is found
+10/29/2019 11:49:59 AM - LoginPage - INFO: Element is presented
+10/29/2019 11:49:59 AM - TestStatus - INFO: ## Verification successful: Login was successful
+10/29/2019 11:49:59 AM - TestStatus - INFO: Test valid Login: Test is successful
+10/29/2019 11:52:07 AM - HoverPage - INFO: Element is found
+10/29/2019 11:52:07 AM - HoverPage - INFO: Element is hovered
+10/29/2019 11:52:07 AM - HoverPage - INFO: Element is found
+10/29/2019 11:52:11 AM - HoverPage - INFO: Element is found
+10/29/2019 11:52:11 AM - HoverPage - INFO: Element is presented
+10/29/2019 11:52:11 AM - TestStatus - INFO: ## Verification successful:  Test is successful
+10/29/2019 11:52:11 AM - TestStatus - INFO: Test Hovering : Test is successful

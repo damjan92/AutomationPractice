@@ -1,7 +1,3 @@
 [
-  "tests/home/login_test.py::Logintest::test_invalid_email",
-  "tests/home/login_test.py::Logintest::test_invalid_email_and_passwvd",
-  "tests/home/login_test.py::Logintest::test_invalid_password",
-  "tests/home/login_test.py::Logintest::test_invalid_with_blan_fields",
-  "tests/home/login_test.py::Logintest::test_valid_login"
+  "tests/home/hover_test.py::Hovertest::test_hovering"
 ]
