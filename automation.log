@@ -55,3 +55,67 @@
 10/29/2019 11:52:11 AM - HoverPage - INFO: Element is presented
 10/29/2019 11:52:11 AM - TestStatus - INFO: ## Verification successful:  Test is successful
 10/29/2019 11:52:11 AM - TestStatus - INFO: Test Hovering : Test is successful
+10/30/2019 11:21:14 PM - HoverPage - INFO: Element is found
+10/30/2019 11:21:14 PM - HoverPage - INFO: Element is hovered
+10/30/2019 11:21:14 PM - HoverPage - INFO: Element is found
+10/30/2019 11:21:17 PM - HoverPage - INFO: Element is found
+10/30/2019 11:21:17 PM - HoverPage - INFO: Element is presented
+10/30/2019 11:21:17 PM - TestStatus - INFO: ## Verification successful:  Test is successful
+10/30/2019 11:21:17 PM - TestStatus - INFO: Test Hovering : Test is successful
+10/30/2019 11:24:26 PM - HoverPage - INFO: Element is found
+10/30/2019 11:24:26 PM - HoverPage - INFO: Element is hovered
+10/30/2019 11:24:26 PM - HoverPage - INFO: Element is found
+10/30/2019 11:24:29 PM - HoverPage - INFO: Element is found
+10/30/2019 11:24:29 PM - HoverPage - INFO: Element is presented
+10/30/2019 11:24:29 PM - Status - INFO: ## Verification successful:  Test is successful
+10/30/2019 11:24:29 PM - Status - INFO: Test Hovering : Test is successful
+10/30/2019 11:26:00 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:02 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:02 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:02 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:03 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:03 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:05 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:05 PM - LoginPage - INFO: Element is presented
+10/30/2019 11:26:05 PM - Status - INFO: ## Verification successful: Login was unsuccessful
+10/30/2019 11:26:05 PM - Status - INFO: Test invalid password: Test is successful
+10/30/2019 11:26:05 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:07 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:07 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:07 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:08 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:08 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:09 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:09 PM - LoginPage - INFO: Element is presented
+10/30/2019 11:26:09 PM - Status - INFO: ## Verification successful: Login was unsuccessful
+10/30/2019 11:26:09 PM - Status - INFO: Test invalid email: Test is successful
+10/30/2019 11:26:09 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:13 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:13 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:13 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:14 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:14 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:15 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:15 PM - LoginPage - INFO: Element is presented
+10/30/2019 11:26:15 PM - Status - INFO: ## Verification successful: Login was unsuccessful
+10/30/2019 11:26:15 PM - Status - INFO: Test invalid email and password: Test is successful
+10/30/2019 11:26:15 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:18 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:18 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:18 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:19 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:19 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:20 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:20 PM - LoginPage - INFO: Element is presented
+10/30/2019 11:26:20 PM - Status - INFO: ## Verification successful: Login was unsuccessful
+10/30/2019 11:26:20 PM - Status - INFO: Test invalid with blank fields: Test is successful
+10/30/2019 11:26:20 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:22 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:22 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:22 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:24 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:24 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:26 PM - LoginPage - INFO: Element is found
+10/30/2019 11:26:26 PM - LoginPage - INFO: Element is presented
+10/30/2019 11:26:26 PM - Status - INFO: ## Verification successful: Login was successful
+10/30/2019 11:26:26 PM - Status - INFO: Test valid Login: Test is successful

@@ -2,12 +2,12 @@ import utilities.custom_logger as cl
 import logging
 from base.selenium_driver import SeleniumDriver
 
-class TestStatus(SeleniumDriver):
+class Status(SeleniumDriver):
 
     log = cl.customLogger(logging.INFO)
 
     def __init__(self, driver):
-        super(TestStatus, self).__init__(driver)
+        super(Status, self).__init__(driver)
         self.result_list = []
 
     def setResult(self, result, resultMessage):

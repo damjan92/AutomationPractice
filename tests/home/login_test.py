@@ -1,5 +1,5 @@
 from pages.home.login_page import LoginPage
-from utilities.test_status import TestStatus
+from utilities.test_status import Status
 
 import unittest
 import pytest
@@ -10,7 +10,7 @@ class Logintest(unittest.TestCase):
     @pytest.fixture(autouse=True)
     def classSetup(self, oneTimeSetUp):
         self.lp = LoginPage(self.driver)
-        self.ts = TestStatus(self.driver)
+        self.ts = Status(self.driver)
 
     @pytest.mark.run(order = 5)
     def test_valid_login(self):
@@ -42,5 +42,6 @@ class Logintest(unittest.TestCase):
         result = self.lp.unsuccess_login()
         self.ts.mark_final("Test invalid with blank fields", result, "Login was unsuccessful")
 
-# py.test -s -v tests\home\login_test.py --browser firefox
+# Run tests
+# py.test -s -v tests\home\login_test.py --browser firefox  / chrome
 
