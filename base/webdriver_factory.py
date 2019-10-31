@@ -8,7 +8,7 @@ class WebDriverFactory():
 
         self.browser = browser
 
-
+# executable_path="C:\\Users\\damja\\Desktop\\Python\\AutomationPractice\libs\\geckodriver.exe"
     def getWebDriverInstantce(self):
 
         baseUrl = "http://automationpractice.com/index.php"
@@ -17,13 +17,13 @@ class WebDriverFactory():
             #driver = webdriver.Ie()
         elif self.browser == "chrome":
             #setting chrome
-            driverLocation = "C:\\Users\\damja\\Desktop\\Python\\AutomationPractice\\libs\\chromedriver.exe"
+            driverLocation = "..\\libs\\chromedriver.exe"
             os.environ["webdriver.chrome.driver"] = driverLocation
             driver = webdriver.Chrome(driverLocation)
         elif self.browser == "firefox":
-            driver = webdriver.Firefox(executable_path="C:\\Users\\damja\\Desktop\\Python\\AutomationPractice\libs\\geckodriver.exe")
+            driver = webdriver.Firefox(executable_path="..\\libs\\geckodriver.exe")
         else:
-            driver = webdriver.Firefox(executable_path="C:\\Users\\damja\\Desktop\\Python\\AutomationPractice\libs\\geckodriver.exe")
+            driver = webdriver.Firefox(executable_path="..\\libs\\geckodriver.exe")
 
         driver.implicitly_wait(3)
         driver.maximize_window()

@@ -119,3 +119,32 @@
 10/30/2019 11:26:26 PM - LoginPage - INFO: Element is presented
 10/30/2019 11:26:26 PM - Status - INFO: ## Verification successful: Login was successful
 10/30/2019 11:26:26 PM - Status - INFO: Test valid Login: Test is successful
+10/31/2019 11:17:30 AM - HoverPage - INFO: Element is found
+10/31/2019 11:17:30 AM - HoverPage - INFO: Element is hovered
+10/31/2019 11:17:30 AM - HoverPage - INFO: Element is found
+10/31/2019 11:17:33 AM - HoverPage - INFO: Element is found
+10/31/2019 11:17:33 AM - HoverPage - INFO: Element is presented
+10/31/2019 11:17:33 AM - Status - INFO: ## Verification successful:  Test is successful
+10/31/2019 11:17:33 AM - Status - INFO: Test Hovering : Test is successful
+10/31/2019 11:27:34 AM - HoverPage - INFO: Element is found
+10/31/2019 11:27:34 AM - HoverPage - INFO: Element is hovered
+10/31/2019 11:27:34 AM - HoverPage - INFO: Element is found
+10/31/2019 11:27:37 AM - HoverPage - INFO: Element is found
+10/31/2019 11:27:37 AM - HoverPage - INFO: Element is presented
+10/31/2019 11:27:37 AM - Status - INFO: ## Verification successful:  Test is successful
+10/31/2019 11:27:37 AM - Status - INFO: Test Hovering : Test is successful
+10/31/2019 11:29:28 AM - HoverPage - INFO: Element is found
+10/31/2019 11:29:28 AM - HoverPage - INFO: Element is hovered
+10/31/2019 11:29:28 AM - HoverPage - INFO: Element is found
+10/31/2019 11:29:32 AM - HoverPage - INFO: Element is found
+10/31/2019 11:29:32 AM - HoverPage - INFO: Element is presented
+10/31/2019 11:29:32 AM - Status - INFO: ## Verification successful:  Test is successful
+10/31/2019 11:29:32 AM - Status - INFO: Test Hovering : Test is successful
+10/31/2019 11:30:21 AM - HoverPage - INFO: Element is found
+10/31/2019 11:30:21 AM - HoverPage - INFO: Element is hovered
+10/31/2019 11:30:21 AM - HoverPage - INFO: Element is found
+10/31/2019 11:30:21 AM - HoverPage - INFO: #CLICK# Element is not found
+10/31/2019 11:30:24 AM - HoverPage - INFO: Element is found
+10/31/2019 11:30:24 AM - HoverPage - INFO: Element is presented
+10/31/2019 11:30:24 AM - Status - INFO: ## Verification successful:  Test is successful
+10/31/2019 11:30:24 AM - Status - INFO: Test Hovering : Test is successful
