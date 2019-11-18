@@ -22,6 +22,9 @@ class LoginPage(SeleniumDriver):
     succcesLogin = "//h1[@class='page-heading']"
     unsuccessLogin = "//p[contains(text(),'There is 1 error')]"
 
+    logout_link = "//a[@class='logout']"
+    success_signout = "//h3[contains(text(),'Create an account')]"
+
     def click_signIn(self):
         self.elementClick(self.sing_in, locatorType="xpath")
 
@@ -50,6 +53,12 @@ class LoginPage(SeleniumDriver):
         self.enter_password(password)
         self.click_button()
 
+    def click_signOut(self):
+        self.elementClick(self.logout_link, locatorType="xpath")
+
+    def logout(self):
+        self.click_signOut()
+
 
     def success_login(self):
         result = self.isElementPresent(self.succcesLogin, locatorType="xpath")
@@ -58,5 +67,10 @@ class LoginPage(SeleniumDriver):
     def unsuccess_login(self):
         result = self.isElementPresent(self.unsuccessLogin, locatorType="xpath")
         return result
+
+    def success_logout(self):
+        result = self.isElementPresent(self.success_signout, locatorType="xpath")
+        return result
+
 
 

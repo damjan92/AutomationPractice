@@ -1,14 +1,15 @@
 from selenium import webdriver
 import  os
-import traceback
-
+import utilities.custom_logger as cl
+import logging
 class WebDriverFactory():
+
+    log = cl.customLogger(logging.DEBUG)
 
     def __init__(self, browser):
 
         self.browser = browser
 
-# executable_path="C:\\Users\\damja\\Desktop\\Python\\AutomationPractice\libs\\geckodriver.exe"
     def getWebDriverInstantce(self):
 
         baseUrl = "http://automationpractice.com/index.php"
@@ -17,13 +18,17 @@ class WebDriverFactory():
             #driver = webdriver.Ie()
         elif self.browser == "chrome":
             #setting chrome
-            driverLocation = "..\\libs\\chromedriver.exe"
+            driverLocation = "C:\\Users\\damja\\Desktop\\Python\\AutomationPractice\\libs\chromedriver.exe"
             os.environ["webdriver.chrome.driver"] = driverLocation
             driver = webdriver.Chrome(driverLocation)
+            self.log.info("Running on Chrome")
+
         elif self.browser == "firefox":
             driver = webdriver.Firefox(executable_path="..\\libs\\geckodriver.exe")
+            self.log.info("Running on Firefox")
         else:
             driver = webdriver.Firefox(executable_path="..\\libs\\geckodriver.exe")
+            self.log.info("Running on Firefox")
 
         driver.implicitly_wait(3)
         driver.maximize_window()

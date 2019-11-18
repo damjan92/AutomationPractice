@@ -40,7 +40,7 @@ class SeleniumDriver():
             locatorType = locatorType.lower()
             byType = self.getByType(locatorType)
             element = self.driver.find_element(byType, locator)
-            self.log.info("Element is found")
+            #self.log.info("Element is found")
         except:
             self.log.info("#GET#Element is not found")
         return element
