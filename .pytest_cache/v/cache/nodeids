@@ -1,8 +1,9 @@
 [
-  "tests/home/login_test.py::LoginTest::test_invalid_login_1___tester_email_com_____abc__",
-  "tests/home/login_test.py::LoginTest::test_invalid_login_2___test_email_com_____abcabc__",
-  "tests/home/login_test.py::LoginTest::test_invalid_login_3___test_email_com_____abc__",
-  "tests/home/login_test.py::LoginTest::test_invalid_login_4__________",
-  "tests/home/login_test.py::LoginTest::test_logout",
-  "tests/home/login_test.py::LoginTest::test_valid_login"
+  "tests/test_suite.py::Hovertest::test_hovering",
+  "tests/test_suite.py::LoginTest::test_invalid_login_1___tester_email_com_____abc__",
+  "tests/test_suite.py::LoginTest::test_invalid_login_2___test_email_com_____abcabc__",
+  "tests/test_suite.py::LoginTest::test_invalid_login_3___test_email_com_____abc__",
+  "tests/test_suite.py::LoginTest::test_invalid_login_4__________",
+  "tests/test_suite.py::LoginTest::test_logout",
+  "tests/test_suite.py::LoginTest::test_valid_login"
 ]

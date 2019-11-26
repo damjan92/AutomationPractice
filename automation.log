@@ -17,3 +17,27 @@
 11/18/2019 09:07:15 PM - LoginPage - INFO: Element is presented
 11/18/2019 09:07:15 PM - Status - INFO: ## Verification successful: Sign out is successful
 11/18/2019 09:07:15 PM - Status - INFO: Test valid sign out: Test is successful
+11/26/2019 02:48:04 PM - WebDriverFactory - INFO: Running on Firefox
+11/26/2019 02:48:14 PM - HoverPage - INFO: Element is hovered
+11/26/2019 02:48:18 PM - HoverPage - INFO: Element is presented
+11/26/2019 02:48:18 PM - Status - INFO: ## Verification successful:  Test is successful
+11/26/2019 02:48:18 PM - Status - INFO: Test Hovering : Test is successful
+11/26/2019 02:48:28 PM - WebDriverFactory - INFO: Running on Firefox
+11/26/2019 02:48:44 PM - LoginPage - INFO: Element is presented
+11/26/2019 02:48:44 PM - Status - INFO: ## Verification successful: Login was unsuccessful
+11/26/2019 02:48:44 PM - Status - INFO: Test invalid password: Test is successful
+11/26/2019 02:48:50 PM - LoginPage - INFO: Element is presented
+11/26/2019 02:48:50 PM - Status - INFO: ## Verification successful: Login was unsuccessful
+11/26/2019 02:48:50 PM - Status - INFO: Test invalid password: Test is successful
+11/26/2019 02:48:55 PM - LoginPage - INFO: Element is presented
+11/26/2019 02:48:55 PM - Status - INFO: ## Verification successful: Login was unsuccessful
+11/26/2019 02:48:55 PM - Status - INFO: Test invalid password: Test is successful
+11/26/2019 02:49:00 PM - LoginPage - INFO: Element is presented
+11/26/2019 02:49:00 PM - Status - INFO: ## Verification successful: Login was unsuccessful
+11/26/2019 02:49:00 PM - Status - INFO: Test invalid password: Test is successful
+11/26/2019 02:49:06 PM - LoginPage - INFO: Element is presented
+11/26/2019 02:49:06 PM - Status - INFO: ## Verification successful: Login was successful
+11/26/2019 02:49:06 PM - Status - INFO: Test valid Login: Test is successful
+11/26/2019 02:49:08 PM - LoginPage - INFO: Element is presented
+11/26/2019 02:49:08 PM - Status - INFO: ## Verification successful: Sign out is successful
+11/26/2019 02:49:08 PM - Status - INFO: Test valid sign out: Test is successful
